@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output files
+submission.csv
+top_candidates.json
+
+# Secrets
+config.py
+apikey.txt
+
+data/candidates.jsonl
